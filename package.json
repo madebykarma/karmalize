@@ -1,0 +1,14 @@
+{
+  "name": "@madebykarma/karmalize",
+  "version": "1.0.0",
+  "main": "karmalize.css",
+  "style": "karmalize.css",
+  "author": "madebykarma",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madebykarma/karmalize.git"
+  },
+  "homepage": "https://madebykarma.co",
+  "license": "MIT",
+  "description": "A brand-oriented CSS baseline inspired by modern-normalize."
+}
