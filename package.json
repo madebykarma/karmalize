@@ -6,9 +6,14 @@
   "author": "madebykarma",
   "repository": {
     "type": "git",
-    "url": "https://github.com/madebykarma/karmalize.git"
+    "url": "git+https://github.com/madebykarma/karmalize.git"
   },
   "homepage": "https://madebykarma.co",
   "license": "MIT",
-  "description": "A brand-oriented CSS baseline inspired by modern-normalize."
+  "description": "A brand-oriented CSS baseline inspired by modern-normalize.",
+  "keywords": [
+    "css",
+    "normalize",
+    "baseline"
+  ]
 }
